@@ -2,7 +2,7 @@
 
 ## Please read the instruction if you add any changes on this repo
 
-1. To clone the repository, use the following command:
+1. To clone the repository, use the following command (You don't need to use this command if you have already downloaded this repository):
 ```bash
 git clone https://github.com/leyulunna/is-isb-leetcode-practice-together.git
 ```
